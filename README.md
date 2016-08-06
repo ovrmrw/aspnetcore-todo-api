@@ -3,11 +3,11 @@ WebAPI example using ASP.NET Core.
 
 ---
 
-| |Environments |
-|:-|:--|
+||Environments|
+|:--|:--|
 |OS|Windows 10 64bit|
-|Editor|VSCode (stable)|
-|dotnet --version|1.0.0-preview2-003121| 
+|Editor |VSCode (stable)|
+|dotnet --version | 1.0.0-preview2-003121| 
 
 ### Setup
 ```
