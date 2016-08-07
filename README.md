@@ -3,7 +3,7 @@ WebAPI example using ASP.NET Core.
 
 ---
 
-||Environments|
+||My Environments|
 |:--|:--|
 |OS|Windows 10 64bit|
 |Editor |VSCode (stable)|
